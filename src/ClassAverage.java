@@ -6,19 +6,19 @@ public class ClassAverage {
         //create Scanner to obtain input from command-line
         Scanner input = new Scanner(System.in);
         //initialization phase
-        int total = 0; // initialize sum of grades
-        int gradeCounter = 1; //initialize # of grades
+        double total = 0; // initialize sum of grades
+        double gradeCounter = 1; //initialize # of grades
         //processing phase uses counter-controlled
         while (gradeCounter <= 10) { // loop 10 times
             System.out.print("Enter grade:");
-            int grade = input.nextInt();
+            double grade = input.nextInt();
             total = total + grade; //add grade to total
             gradeCounter = gradeCounter + 1;
         }
         //termination phase
         double average = total / 10;
 
-        System.out.printf("\nTotal of all 10 grades is %d", total );
+        System.out.printf("\nTotal of all 10 grades is %f", total );
         System.out.printf("\nClass average is %f", average);
     }
 
