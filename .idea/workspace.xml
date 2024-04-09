@@ -1,18 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f6fcf6c-b546-41cb-b746-e15e35d763dc" name="Changes" comment="" />
+    <list default="true" id="8f6fcf6c-b546-41cb-b746-e15e35d763dc" name="Changes" comment="Solved Exercise_4.17, GasMileage solve and tested">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_4_17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NyandoOnongwene&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="cc65a5d9-fc66-43f4-99d0-2dc4e7d7d680" />
+        <option name="url" value="https://github.com/NyandoOnongwene/Java_Chapter_4_Exercises.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2ejWPMP75C3OtbTyQwtayCy4wHo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,10 +54,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ClassAverage.executor": "Run",
+    "Application.GasMileage.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.StudentTest.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -36,6 +74,102 @@
       <option name="presentableId" value="Default" />
       <updated>1712418442481</updated>
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1712418577030</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712418577030</updated>
+    </task>
+    <task id="LOCAL-00002" summary="a student program to store/get a student's name, age and grade">
+      <option name="closed" value="true" />
+      <created>1712421703899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712421703899</updated>
+    </task>
+    <task id="LOCAL-00003" summary="student test program that outputs student name and grade letter">
+      <option name="closed" value="true" />
+      <created>1712424291010</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712424291010</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Solving the class-average problem using counter-controlled iteration first commit">
+      <option name="closed" value="true" />
+      <created>1712536346805</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712536346805</updated>
+    </task>
+    <task id="LOCAL-00005" summary="correct %n to /n and also removed unnessary semicolon">
+      <option name="closed" value="true" />
+      <created>1712536797569</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712536797569</updated>
+    </task>
+    <task id="LOCAL-00006" summary="completed challenge to input scores . get the total and average. Butr fixing the issue of not displaying float.">
+      <option name="closed" value="true" />
+      <created>1712539391846</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712539391846</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed the error of not displaying float by changing all &quot;int&quot; to &quot;double&quot;">
+      <option name="closed" value="true" />
+      <created>1712539545127</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712539545127</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Solving Exercise_4.17, question and algorithm added">
+      <option name="closed" value="true" />
+      <created>1712609788138</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712609788138</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Solved Exercise_4.17, GasMileage solve and tested">
+      <option name="closed" value="true" />
+      <created>1712610151453</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712610151454</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="a student program to store/get a student's name, age and grade" />
+    <MESSAGE value="student test program that outputs student name and grade letter" />
+    <MESSAGE value="Solving the class-average problem using counter-controlled iteration first commit" />
+    <MESSAGE value="correct %n to /n and also removed unnessary semicolon" />
+    <MESSAGE value="completed challenge to input scores . get the total and average. Butr fixing the issue of not displaying float." />
+    <MESSAGE value="fixed the error of not displaying float by changing all &quot;int&quot; to &quot;double&quot;" />
+    <MESSAGE value="Solving Exercise_4.17, question and algorithm added" />
+    <MESSAGE value="Solved Exercise_4.17, GasMileage solve and tested" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved Exercise_4.17, GasMileage solve and tested" />
   </component>
 </project>
