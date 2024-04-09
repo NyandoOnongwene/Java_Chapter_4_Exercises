@@ -5,7 +5,7 @@ public class Student {
         //constructor initializes instance variables
         public Student(String name, double average){
             this.name = name;
-            //validate that avearge is >0.0 and <== 100
+            //validate that average is >0.0 and <== 100
             //keep instance variable average's default
             if (average > 0.0){
                 if (average <=100.0){
@@ -34,7 +34,7 @@ public class Student {
             }
         }
     }
-    //retrieves the student's Avearge
+    //retrieves the student's Average
     public double getAverage() {
             return average;
     }
