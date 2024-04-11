@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f6fcf6c-b546-41cb-b746-e15e35d763dc" name="Changes" comment="Solved Exercise_4.17, GasMileage solve and tested">
+    <list default="true" id="8f6fcf6c-b546-41cb-b746-e15e35d763dc" name="Changes" comment="workspace">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercise_4_17.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +144,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712610151454</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="tweaked the code">
+      <option name="closed" value="true" />
+      <created>1712699329480</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1712699329480</updated>
+    </task>
+    <task id="LOCAL-00011" summary="workspace">
+      <option name="closed" value="true" />
+      <created>1712699361129</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1712699361129</updated>
+    </task>
+    <task id="LOCAL-00012" summary="workspace">
+      <option name="closed" value="true" />
+      <created>1712699371508</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1712699371508</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +192,8 @@
     <MESSAGE value="fixed the error of not displaying float by changing all &quot;int&quot; to &quot;double&quot;" />
     <MESSAGE value="Solving Exercise_4.17, question and algorithm added" />
     <MESSAGE value="Solved Exercise_4.17, GasMileage solve and tested" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved Exercise_4.17, GasMileage solve and tested" />
+    <MESSAGE value="tweaked the code" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
 </project>
